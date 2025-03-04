@@ -1,3 +1,3 @@
 ﻿
 Console.WriteLine("Hello, World!");
-Console.WriteLine("PCHLELANTRUNG");
+Console.WriteLine("Nie no to był żart sorki");
